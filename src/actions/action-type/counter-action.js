@@ -1,0 +1,4 @@
+export const INCREMENNT = 'INCREMENNT';
+export const DECREMENT = 'DECREMENT';
+export const INCRESEBYFIVE = 'INCRESEBYFIVE';
+export const SHOWCOUNTER = 'SHOWCOUNTER';
